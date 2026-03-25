@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 I'm a 16-year-old currently diving into the world of **Web Development**.
 
-* 🔭 **Currently learning:** The ins and outs of front-end web development (HTML, CSS, JavaScript) and planning my big projects!
+* 🔭 **Currently learning:** The ins and outs of Front-end Web Development (HTML, CSS, JavaScript)
