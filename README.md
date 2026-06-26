@@ -1,4 +1,4 @@
-## Hi there, I'm "KAUN" aka Krishna Sharma!
+## Hi there, I'm "KAUN"
 <!--
 **kaunkrishna/kaunkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a 16-year-old currently diving into the world of **Web Development**.
-
-* **Currently learning:** The ins and outs of Front-end Web Development (HTML, CSS, JavaScript)
+I use Arch btw.
